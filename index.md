@@ -27,7 +27,7 @@ Estação Meteorológica construída utilizando NODEMCU e o sensor DHT11. Alimen
 
 ### Codigo Fonte (Arduino)
 
-```
+```c
 #include <ESP8266WiFi.h> 
 #include <DHT.h>
   
