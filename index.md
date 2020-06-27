@@ -7,10 +7,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Referencias
 
-[Como Programar o ESP8266]https://www.filipeflop.com/universidade/aprenda-iot-em-casa-iniciante/aula-6-como-programar-o-esp8266-nodemcu/
+[Como Programar o ESP8266](https://www.filipeflop.com/universidade/aprenda-iot-em-casa-iniciante/aula-6-como-programar-o-esp8266-nodemcu/)
 
-[Disponibilize Dados do tempo com o Sensor DHT11 e o ESP8266-nodemcu]
-https://www.filipeflop.com/universidade/aprenda-iot-em-casa-iniciante/aula-7-disponibilize-dados-do-tempo-com-o-sensor-dht11-e-o-esp8266-nodemcu/
+[Disponibilize Dados do tempo com o Sensor DHT11 e o ESP8266-nodemcu](https://www.filipeflop.com/universidade/aprenda-iot-em-casa-iniciante/aula-7-disponibilize-dados-do-tempo-com-o-sensor-dht11-e-o-esp8266-nodemcu/)
 
 
 
