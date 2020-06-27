@@ -4,22 +4,26 @@
 Estação Meteorológica construída utilizando NODEMCU e o sensor DHT11. Alimentando a plataforma [ThingSpeak](thingspeak.com) para registro das informações e construções dos graficos abaixo.
 
 
-##Sensores
+## Sensores
 
 
 
-#### Temperatura
+#### Temperatura (ºC e ºF)
 <iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/1090302/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=50&title=+&type=spline&xaxis=Tempo&yaxis=Temperatura+%28%C2%BAC%29"></iframe>
+
+<iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/1090302/widgets/195315"></iframe>
 
 
 <iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/1090302/charts/2?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=50&title=+&type=spline&xaxis=Tempo&yaxis=Temperatura+%28%C2%BAF%29"></iframe>
 
+<iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/1090302/widgets/195316"></iframe>
 
 
 #### Umidade Relativa
 
 <iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/1090302/charts/3?bgcolor=%23ffffff&color=%233366ff&dynamic=true&results=60&title=Umidade+Relativa+&type=line&xaxis=Tempo&yaxis=%28%25%29"></iframe>
 
+<iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/1090302/widgets/195317"></iframe>
 
 
 
