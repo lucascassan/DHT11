@@ -1,12 +1,20 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/lucascassan/DHT11/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Projeto 03 - Estação Meteorológica com acesso à Internet.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+
+### Referencias
+
+[Como Programar o ESP8266]https://www.filipeflop.com/universidade/aprenda-iot-em-casa-iniciante/aula-6-como-programar-o-esp8266-nodemcu/
+
+[Disponibilize Dados do tempo com o Sensor DHT11 e o ESP8266-nodemcu]
+https://www.filipeflop.com/universidade/aprenda-iot-em-casa-iniciante/aula-7-disponibilize-dados-do-tempo-com-o-sensor-dht11-e-o-esp8266-nodemcu/
+
+
+
+### Codigo Fonte (Arduino)
 
 ```markdown
 Syntax highlighted code block
@@ -26,15 +34,3 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-<iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/1090302/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15"></iframe>
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lucascassan/DHT11/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
